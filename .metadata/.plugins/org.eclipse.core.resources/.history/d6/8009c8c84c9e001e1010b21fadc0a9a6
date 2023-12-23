@@ -1,0 +1,19 @@
+package Assignments;
+
+public class LargestOfTwoNumbers_day4 {
+
+	public static void main(String[] args) {
+		
+		int a = 200;
+		int b = 100;
+		
+		//Using if...else
+		if(a > b) {
+			System.out.println("A is greater");
+		}else {
+			System.out.println("B is greater");
+		}
+
+	}
+
+}

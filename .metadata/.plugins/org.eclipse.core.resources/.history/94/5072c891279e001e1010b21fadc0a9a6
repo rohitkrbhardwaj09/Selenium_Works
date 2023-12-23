@@ -1,0 +1,42 @@
+package day3;
+
+public class OperatorDemo {
+
+	public static void main(String[] args) {
+		
+		//Arithmetic Operator
+		int a=200, b=100;
+		
+		//Addition
+		System.out.println("Sum of A and B is: "+ (a+b));
+		
+		//Subtraction
+		System.out.println("Subtraction of A and B is: "+ (a-b));
+		
+		//Multiplication
+		System.out.println("Multiplication of A and B is: "+ (a*b));
+		
+		//Division
+		System.out.println("Division of A and B: "+ (a/b));
+		
+		//Modules
+		System.out.println("Modules of A and B: "+ (a%b));
+	
+		
+		// Relational/ Comparison Operator
+		//It returns true and false only
+		
+		// > (Greater than)
+		System.out.println(a>b);
+		
+		// < (Lesser than)
+		System.out.println(a<b);
+		
+		// >= (Greater than or equals to)
+		System.out.println(a>=b);
+		
+		// <= (Lesser than or equals to)
+		System.out.println(a<=b);
+	}
+
+}

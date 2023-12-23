@@ -1,0 +1,25 @@
+package day2;
+
+public class DataTypeDemo {
+
+	public static void main(String[] args) {
+		//int a; //initialization
+		//a = 100; //declaration
+		
+		int a = 100; //Initialization + declaration
+		System.out.println("Welcome"); //Welcome
+		System.out.println(10); //10
+		System.out.println(a); //100
+
+		//Variable in multiple lines
+		//Approach 1
+		int x = 100;
+		int y = 200;
+		int z = 300;
+		
+		System.out.println(x);
+		System.out.println(y);
+		System.out.println(z);
+	}
+
+}

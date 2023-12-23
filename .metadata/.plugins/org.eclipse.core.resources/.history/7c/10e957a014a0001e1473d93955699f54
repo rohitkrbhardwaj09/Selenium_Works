@@ -1,0 +1,14 @@
+package day8;
+
+public class Employee {
+
+	public static void main(String[] args) {
+		
+		int eid;
+		String ename;
+		String job;
+		int esal;
+
+	}
+
+}

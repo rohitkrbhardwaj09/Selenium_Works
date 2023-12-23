@@ -1,0 +1,28 @@
+package day2;
+
+public class DataTypeDemo2 {
+
+	public static void main(String[] args) {
+		
+		int a = 100, b = 200;
+		System.out.println("The value of a: "+a);
+		System.out.println("The value of b: "+b);
+
+		long lng = 1234567889;
+		System.out.println(lng);
+	
+		byte by = -100;
+		System.out.println(by);
+		
+//		byte by2 = -150; // Invalid
+//		System.out.println();
+		
+		short sh = 32765;
+		System.out.println(sh);
+		
+		//Decimal numbers
+		float item_price = 15.50F;
+		System.out.println(item_price);
+	}
+
+}

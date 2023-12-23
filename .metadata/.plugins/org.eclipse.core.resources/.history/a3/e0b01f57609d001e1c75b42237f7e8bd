@@ -1,0 +1,16 @@
+package day2;
+
+public class DataTypeDemo {
+
+	public static void main(String[] args) {
+		//int a; //initialization
+		//a = 100; //declaration
+		
+		int a = 100; //Initialization + declaration
+		System.out.println("Welcome");
+		System.out.println(10);
+		System.out.println(a);
+
+	}
+
+}

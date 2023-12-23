@@ -1,0 +1,20 @@
+package Assignments;
+
+public class ReverseANumber_day5 {
+
+	public static void main(String[] args) {
+		
+		int number = 1234;
+		
+		int reversed = 0;
+		
+		while(number != 0) {
+			
+			
+			
+		}
+		
+
+	}
+
+}
